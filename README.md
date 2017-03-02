@@ -1,3 +1,3 @@
 # Javascript_drumkit
 
-- This is drumkit created with vanilla JavaScript as part of the 30 JS projects in 30 days challenge.
+- This is a drum kit created with vanilla JavaScript as part of the 30-JavaScript projects in 30 days challenge.
